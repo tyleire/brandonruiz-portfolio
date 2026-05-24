@@ -1,0 +1,422 @@
+{
+  "site": {
+    "name": "Brandon Ruiz",
+    "role": "Director of Photography",
+    "copyright": "Brandon Ruiz — All Rights Reserved",
+    "instagram": "https://www.instagram.com/brandonruizdp",
+    "vimeo_url": "https://www.vimeo.com/brandonruiz",
+    "imdb_url":  "https://www.imdb.com/name/nm4868918",
+    "nav": [
+      { "label": "Motion",  "url": "index.php" },
+      { "label": "Contact", "url": "contact.php" }
+    ]
+  },
+  "hero": {
+    "image":      "images/hero/website_collage.jpg",
+    "hero_video": "",
+    "eyebrow":    "Selected Work",
+    "title":      "2025 Narrative Reel",
+    "subtitle":   "Selected Cinematography Highlights",
+    "url":        "https://www.brandonruiz.com/reel.html",
+    "cta":        "View Reel ↗"
+  },
+  "projects": [
+    {
+      "title":       "Desert Dawn",
+      "slug":        "desertdawn",
+      "category":    "Feature Film",
+      "year":        "2025",
+      "description": "Desert Dawn marks my second collaboration with both Kellan Lutz and Cam Gigande and the first time they've been on screen together since Twilight. We returned to Las Vegas to film in many of the same locations used in Ruthless, though this time around major set pieces like the hotel had been renovated, which felt like a new location. Director Marty Murray referenced True Detective season 1 as a visual inspiration for the film, and I worked to give the movie an organic feel through the lighting, relying on street lamps for night lighting rather than big moonlit nightscapes, and a handheld approach for much of the film.",
+      "credits": {
+        "Directed by":  "Marty Murray",
+        "Shot on":      "Arri Alexa with Cooke Speed Panchro lenses",
+        "Project type": "Feature Film"
+      },
+      "thumbnail": "images/desertdawn/desertdawn12.jpg",
+      "stills": [
+        "images/desertdawn/desertdawn1.jpg",
+        "images/desertdawn/desertdawn46.jpg",
+        "images/desertdawn/desertdawn3.jpg",
+        "images/desertdawn/desertdawn4.jpg",
+        "images/desertdawn/desertdawn25.jpg",
+        "images/desertdawn/desertdawn6.jpg",
+        "images/desertdawn/desertdawn7.jpg",
+        "images/desertdawn/desertdawn42.jpg",
+        "images/desertdawn/desertdawn44.jpg"
+      ],
+      "video":    "https://www.youtube-nocookie.com/embed/yQCpGW7bZyo?controls=0",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Ruthless",
+      "slug":        "ruthless",
+      "category":    "Feature Film",
+      "year":        "2024",
+      "description": "\"I shouldn't be involved\" — the theme of Harry's prevailing inner voice throughout the first act of the film, then his dramatic shift was the binding agent in my attachment to the Ruthless story. I pitched to director Art Camacho the idea of creating an arc of color, beginning with neutral earthy tones and getting more and more colorful as Harry goes full tilt into this horrific underworld of human trafficking. Revenge is his heroin, and the twisted clarity and relief he finds in his rampage is incomparable in these moments. Staring death in the face, he feels alive again after the crushing weight of grief for so long.",
+      "credits": {
+        "Directed by":  "Art Camacho",
+        "Shot on":      "Sony Venice w/ Atlas Anamorphics",
+        "Project type": "Feature Film"
+      },
+      "thumbnail": "images/ruthless/ruthless_001.jpg",
+      "stills": [
+        "images/ruthless/ruthless_001.jpg",
+        "images/ruthless/ruthless_002.jpg",
+        "images/ruthless/ruthless_003.jpg",
+        "images/ruthless/ruthless_004.jpg",
+        "images/ruthless/ruthless_005.jpg",
+        "images/ruthless/ruthless_006.jpg",
+        "images/ruthless/ruthless_007.jpg",
+        "images/ruthless/ruthless_008.jpg"
+      ],
+      "video":    "",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Due Justice",
+      "slug":        "duejustice",
+      "category":    "Feature Film",
+      "year":        "2024",
+      "description": "Director Javier sent me this script in 2021 with the pitch \"Three pissed off dads on various sides of the law eventually meet in a mexican standoff.\" Was so fun returning to the pacific northwest to shoot this film in Seattle with an amazing cast and crew.",
+      "credits": {
+        "Directed by":  "Javier Reyna",
+        "Shot on":      "Arri Alexa, Sony Venice w/ Atlas Anamorphics",
+        "Project type": "Feature Film"
+      },
+      "thumbnail": "images/duejustice/duejustice1.jpeg",
+      "stills": [
+        "images/duejustice/duejustice1.jpeg",
+        "images/duejustice/duejustice2.jpeg",
+        "images/duejustice/duejustice3.jpeg",
+        "images/duejustice/duejustice4.jpeg",
+        "images/duejustice/duejustice5.jpeg",
+        "images/duejustice/duejustice15.jpeg",
+        "images/duejustice/duejustice13.jpeg",
+        "images/duejustice/duejustice19.jpeg",
+        "images/duejustice/duejustice20.jpeg"
+      ],
+      "video":    "",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Ali Wood — Time to Be Great",
+      "slug":        "timetobegreat",
+      "category":    "Music Video",
+      "year":        "2023",
+      "description": "Another shoestring budget music video offering interesting challenges helmed by the artist with a delightfully detailed vision. Had such a great crew on this shoot I continued to work with to this day. And yes, being in the ring with those 7ft tall fighters was indeed pretty scary!",
+      "credits": {
+        "Directed by":  "Ali Wood",
+        "Shot on":      "Arri Alexa with Atlas Anamorphic lenses",
+        "Project type": "Music Video"
+      },
+      "thumbnail": "images/timetobegreat/timetobegreat_8.jpg",
+      "stills": [
+        "images/timetobegreat/timetobegreat_1.jpg",
+        "images/timetobegreat/timetobegreat_2.jpg",
+        "images/timetobegreat/timetobegreat_3.jpg",
+        "images/timetobegreat/timetobegreat_4.jpg",
+        "images/timetobegreat/timetobegreat_6.jpg",
+        "images/timetobegreat/timetobegreat_7.jpg",
+        "images/timetobegreat/timetobegreat_8.jpg"
+      ],
+      "video":    "https://www.youtube-nocookie.com/embed/E7KhCwqg0GQ?controls=0",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Nite Flirt",
+      "slug":        "niteflirt",
+      "category":    "Short Film",
+      "year":        "2023",
+      "description": "This was my first foray into the horror/comedy genre, first shoot with the Sony Venice, and first 100% DMX controlled project helmed by visionary director Sam Gonzalez. The Sony Venice was the perfect tool for the job, seeing so far into the dark that we needed flashlights on set to see where we were going! I had too much fun playing with shadow and color on this one, and Sam's encouragement to push the envelope visually really shows in the final product.",
+      "credits": {
+        "Directed by":  "Sam Gonzalez",
+        "Shot on":      "Sony Venice with Atlas Anamorphic lenses",
+        "Project type": "Short Film"
+      },
+      "thumbnail": "images/niteflirt/niteflirt_2.jpg",
+      "stills": [
+        "images/niteflirt/niteflirt_1.jpg",
+        "images/niteflirt/niteflirt_2.jpg",
+        "images/niteflirt/niteflirt_3.jpg",
+        "images/niteflirt/niteflirt_4.jpg",
+        "images/niteflirt/niteflirt_5.jpg",
+        "images/niteflirt/niteflirt_6.jpg"
+      ],
+      "video":    "https://player.vimeo.com/video/760650985",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Beachwood Coyotes — Doubt",
+      "slug":        "beachwoodcoyotes",
+      "category":    "Music Video",
+      "year":        "2022",
+      "description": "Growing up in the height of the punk rock era, I dreamt about one day making a proper punk video complete with gritty industrial locations, moody lighting, and of course, lots of smoke. This was my first collaboration with director Sam Gonzalez and he made quick work of realizing those childhood dreams. Special thanks to gaffer Teagm Bashet for his spectacular work on this project.",
+      "credits": {
+        "Directed by":  "Sam Gonzalez",
+        "Shot on":      "Arri Alexa with Atlas Anamorphic lenses",
+        "Project type": "Music Video"
+      },
+      "thumbnail": "images/beachwoodcoyotes/beachwoodcoyotes_1.jpg",
+      "stills": [
+        "images/beachwoodcoyotes/beachwoodcoyotes_1.jpg",
+        "images/beachwoodcoyotes/beachwoodcoyotes_6.jpg",
+        "images/beachwoodcoyotes/beachwoodcoyotes_2.jpg",
+        "images/beachwoodcoyotes/beachwoodcoyotes_3.jpg",
+        "images/beachwoodcoyotes/beachwoodcoyotes_4.jpg",
+        "images/beachwoodcoyotes/beachwoodcoyotes_5.jpg",
+        "images/beachwoodcoyotes/beachwoodcoyotes_7.jpg"
+      ],
+      "video":    "https://www.youtube-nocookie.com/embed/AxrDBwV-lpE?controls=0",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Commonly Grounded",
+      "slug":        "commonlygrounded",
+      "category":    "Short Film",
+      "year":        "2023",
+      "description": "I was drawn to the theme of self medicating as a means of coping and the brokenness of each character in this touching drama. The director Wendy and I had several discussions about how each world would feel before their lives finally intersect, and how that would affect the ending. Beautiful production design by Amy Hoang further enhanced their visual worlds.",
+      "credits": {
+        "Directed by":  "Wendy Wang",
+        "Shot on":      "Arri Alexa with Atlas Anamorphic lenses",
+        "Project type": "Short Film"
+      },
+      "thumbnail": "images/commonlygrounded/commonlygrounded_1.jpg",
+      "stills": [
+        "images/commonlygrounded/commonlygrounded_1.jpg",
+        "images/commonlygrounded/commonlygrounded_2.jpg",
+        "images/commonlygrounded/commonlygrounded_3.jpg",
+        "images/commonlygrounded/commonlygrounded_4.jpg",
+        "images/commonlygrounded/commonlygrounded_5.jpg"
+      ],
+      "video":    "",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Black Warrant",
+      "slug":        "blackwarrant",
+      "category":    "Feature Film",
+      "year":        "2022",
+      "description": "What an adventure shooting Black Warrant in Mexico where the mantra down there is clearly, \"go big or go home.\" Real machine guns blasting away, squibs, zirc rounds, literally the whole nine yards. Was a pleasure collaborating with director Tibor Takacs on this fast paced shoot. Shooting two cameras constantly provided its own challenges but we had a great time and forged some wonderful new relationships with a stellar crew and cast.",
+      "credits": {
+        "Directed by":  "Tibor Takacs",
+        "Shot on":      "Arri Alexa with Cooke Speed Panchro lenses",
+        "Project type": "Feature Film"
+      },
+      "thumbnail": "images/blackwarrant/blackwarrant_6.jpg",
+      "stills": [
+        "images/blackwarrant/blackwarrant_1.jpg",
+        "images/blackwarrant/blackwarrant_2.jpg",
+        "images/blackwarrant/blackwarrant_3.jpg",
+        "images/blackwarrant/blackwarrant_4.jpg",
+        "images/blackwarrant/blackwarrant_5.jpg",
+        "images/blackwarrant/blackwarrant_6.jpg",
+        "images/blackwarrant/blackwarrant_7.jpg",
+        "images/blackwarrant/blackwarrant_8.jpg"
+      ],
+      "video":    "https://www.youtube-nocookie.com/embed/5YOnJp1VMEI?controls=0",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Sunset Cowboys",
+      "slug":        "sunsetcowboys",
+      "category":    "Short Film",
+      "year":        "2021",
+      "description": "This neo-western about hard-hit hollywood stuntmen turning to a life of crime presented an interesting challenge in continuity. The story takes place over the course of one afternoon, so special care had to be taken to match time of day, especially around the fast changing lighting conditions of golden hour. With an experienced real life cowboy cast as familiar with trail rides as they were on the set of Westworld or a Quentin Tarantino film, we found a wonderful authenticity in our story.",
+      "credits": {
+        "Directed by":  "Ross Francis",
+        "Shot on":      "Arri Alexa with Atlas Anamorphic lenses",
+        "Project type": "Short Film"
+      },
+      "thumbnail": "images/sunsetcowboys/sunsetcowboys2.jpg",
+      "stills": [
+        "images/sunsetcowboys/sunsetcowboys1.jpg",
+        "images/sunsetcowboys/sunsetcowboys10.jpg",
+        "images/sunsetcowboys/sunsetcowboys2.jpg",
+        "images/sunsetcowboys/sunsetcowboys3.jpg",
+        "images/sunsetcowboys/sunsetcowboys4.jpg",
+        "images/sunsetcowboys/sunsetcowboys6.jpg",
+        "images/sunsetcowboys/sunsetcowboys7.jpg",
+        "images/sunsetcowboys/sunsetcowboys8.jpg",
+        "images/sunsetcowboys/sunsetcowboys12.jpg"
+      ],
+      "video":    "",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "The Reins Maker",
+      "slug":        "thereinsmaker",
+      "category":    "Feature Film",
+      "year":        "2018",
+      "description": "Shot in the blistering heat of summer in northern Kentucky. That sums up most of what I remember from this shoot! This country is so full of gorgeous textures and character any direction you point the camera. Was a treat to work with a spectacular cast and crew on this faith based drama.",
+      "credits": {
+        "Directed by":  "Caleb Johnson",
+        "Shot on":      "Red Dragon with Leica R lenses",
+        "Project type": "Feature Film"
+      },
+      "thumbnail": "images/thereinsmaker/trm_large_003.jpg",
+      "stills": [
+        "images/thereinsmaker/trm_large_002.jpg",
+        "images/thereinsmaker/trm_large_001.jpg",
+        "images/thereinsmaker/trm_large_003.jpg",
+        "images/thereinsmaker/trm_large_004.jpg",
+        "images/thereinsmaker/trm_large_005.jpg",
+        "images/thereinsmaker/trm_large_006.jpg"
+      ],
+      "video":    "",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Peponi",
+      "slug":        "peponi",
+      "category":    "Feature Film",
+      "year":        "2020",
+      "description": "Car accidents, roadside bandits and malaria. Sounds like the makings of a great film but all that happened BEFORE the cameras started rolling! Quite an adventure shooting in Eastern Africa!\n\nPeponi is almost entirely spoken in Swahili, and the majority of principal photography took place in the Tanzanian city of Dar Es Salaam. Was a fun experience learning how film crews do things in different corners of the planet.",
+      "credits": {
+        "Directed by":  "Nicolas Marwa",
+        "Shot on":      "Arri Alexa Mini",
+        "Project type": "Feature Film"
+      },
+      "thumbnail": "images/peponi/peponi_001.jpg",
+      "stills": [
+        "images/peponi/peponi_001.jpg",
+        "images/peponi/peponi_002.jpg",
+        "images/peponi/peponi_003.jpg",
+        "images/peponi/peponi_004.jpg",
+        "images/peponi/peponi_005.jpg"
+      ],
+      "video":    "",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "BOYS.",
+      "slug":        "boys",
+      "category":    "Feature Film",
+      "year":        "2022",
+      "description": "BOYS is a classic coming of age story, though unlike many films of the genre we had real footage of the two main characters growing up interwoven throughout the film. This was my second project with co-writer Johnny Fiore, and the realism and truthfulness he and Fabio brought to the story was magical to witness through my viewfinder each day on set.\n\nDirector Fabio Lofria and I decided early on that 4:3 aspect ratio would be perfect for the intimate framing he was looking for, as well as cutting seamlessly with the 1990s VHS flashback footage of the boys as kids.",
+      "credits": {
+        "Directed by":  "Fabio LoFria",
+        "Shot on":      "Arri Alexa Mini",
+        "Project type": "Feature Film"
+      },
+      "thumbnail": "images/boys/boys_large_003.jpg",
+      "stills": [
+        "images/boys/boys_large_003.jpg",
+        "images/boys/boys_large_001.jpg",
+        "images/boys/boys_large_004.jpg",
+        "images/boys/boys_large_006.jpg",
+        "images/boys/boys_large_007.jpg"
+      ],
+      "video":    "",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Nike — Play Together / Stay Together",
+      "slug":        "nike",
+      "category":    "Commercial",
+      "year":        "",
+      "description": "",
+      "credits": {},
+      "thumbnail": "images/nike/nike_002.jpg",
+      "stills":    ["images/nike/nike_002.jpg"],
+      "video":     "https://player.vimeo.com/video/169198972",
+      "external":  false,
+      "url":       ""
+    },
+    {
+      "title":       "Taylor Hill — I Want You To Know",
+      "slug":        "iwantyoutoknow",
+      "category":    "Music Video",
+      "year":        "2019",
+      "description": "I love making music videos for ballads because the tone is perfectly set for drama. In this case our hero living in a post apocalyptic future needs to build a time machine that may or may not work, to get the girl back. All on a tiny, tiny music video budget. Of course.\n\nSo much fun working on this project with director Luis Guanzon and my regular crew.",
+      "credits": {
+        "Directed by":  "Luis Guanzon",
+        "Shot on":      "Arri Alexa",
+        "Project type": "Music Video"
+      },
+      "thumbnail": "images/iwantyoutoknow/iwytk_large_004.jpg",
+      "stills": [
+        "images/iwantyoutoknow/iwytk_large_004.jpg",
+        "images/iwantyoutoknow/iwytk_large_001.jpg",
+        "images/iwantyoutoknow/iwytk_large_002.jpg",
+        "images/iwantyoutoknow/iwytk_large_003.jpg",
+        "images/iwantyoutoknow/iwytk_large_005.jpg"
+      ],
+      "video":    "https://player.vimeo.com/video/282443011",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Google — Opinion Rewards",
+      "slug":        "google",
+      "category":    "Commercial",
+      "year":        "",
+      "description": "",
+      "credits": {},
+      "thumbnail": "images/google/google_002.jpg",
+      "stills":    ["images/google/google_002.jpg"],
+      "video":     "https://player.vimeo.com/video/302326780",
+      "external":  false,
+      "url":       ""
+    },
+    {
+      "title":       "In The Event of My Death",
+      "slug":        "intheeventofmydeath",
+      "category":    "Short Film",
+      "year":        "2021",
+      "description": "In 2018 director Brian Steele reached out to me with a script and a carefully curated music playlist. \"Listen to the playlist while you read the script\" he told me. I was hooked. This quirky little film felt dedicated to the child in each of us still grappling with some of the difficult realities of adulthood.\n\nWe shot in Seattle over 4 days in the spring of 2019 with a wonderfully dedicated crew. One of my favorite projects to date.",
+      "credits": {
+        "Directed by":  "Brian Steele",
+        "Shot on":      "Arri Alexa",
+        "Project type": "Short Film"
+      },
+      "thumbnail": "images/intheeventofmydeath/iteomd_large_003.jpg",
+      "stills": [
+        "images/intheeventofmydeath/iteomd_large_003.jpg",
+        "images/intheeventofmydeath/iteomd_large_004.jpg",
+        "images/intheeventofmydeath/iteomd_large_005.jpg",
+        "images/intheeventofmydeath/iteomd_large_006.jpg",
+        "images/intheeventofmydeath/iteomd_large_001.jpg"
+      ],
+      "video":    "",
+      "external": false,
+      "url":      ""
+    },
+    {
+      "title":       "Reach",
+      "slug":        "reach",
+      "category":    "Feature Film",
+      "year":        "2019",
+      "description": "Being homeschooled I missed out on the high school experience myself so when I was handed a script for a high school dark comedy penned by Johnny Fiore and Grant Harling, I was intrigued. Angsty teen drama mixed with a generous helping of Dumb and Dumber and Karate Kid references? Sign me up. Brilliant performances all around from our talent equally gifted in the nuance of intensely tragic moments as well as comedic timing.\n\nI learned a lot on this feature — especially having a solid plan in place to shoot fast. We shot the whole film in 11 days, sometimes shooting 12 pages per day.",
+      "credits": {
+        "Directed by":  "Leif Rokesh",
+        "Shot on":      "Arri Alexa",
+        "Project type": "Feature Film"
+      },
+      "thumbnail": "images/reach/reach_001.jpg",
+      "stills": [
+        "images/reach/reach_large_001.jpg",
+        "images/reach/reach_large_002.jpg",
+        "images/reach/reach_large_003.jpg",
+        "images/reach/reach_large_004.jpg",
+        "images/reach/reach_large_005.jpg",
+        "images/reach/reach_large_006.jpg",
+        "images/reach/reach_large_007.jpg"
+      ],
+      "video":    "",
+      "external": false,
+      "url":      ""
+    }
+  ]
+}
