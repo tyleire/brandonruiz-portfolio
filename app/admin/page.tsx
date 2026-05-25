@@ -60,7 +60,23 @@ function LoginScreen({ onLogin }: { onLogin: () => void }) {
 }
 
 // ── Upload helper ───────────────────────────────────────────
+// In production (Vercel), we upload directly from the browser to Vercel Blob
+// to bypass the 4.5 MB serverless body limit. In dev we fall back to FormData.
 async function uploadFile(file: File, slug: string): Promise<string> {
+  if (process.env.NEXT_PUBLIC_VERCEL_ENV) {
+    // Client-side direct upload — file never passes through the API function
+    const { upload } = await import('@vercel/blob/client');
+    const prefix = slug.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 40) || 'upload';
+    const ext = file.name.split('.').pop() ?? 'bin';
+    const pathname = `images/${prefix}/${prefix}_${Date.now()}.${ext}`;
+    const blob = await upload(pathname, file, {
+      access: 'public',
+      handleUploadUrl: '/api/upload',
+    });
+    return blob.url;
+  }
+
+  // Dev: send via FormData
   const fd = new FormData();
   fd.append('image', file);
   fd.append('project_slug', slug);
